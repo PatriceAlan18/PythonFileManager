@@ -1,0 +1,17 @@
+Oficio
+
+Nombre: Laura
+Apellidos:  Pérez  García
+Cargo:  Jefa de Recursos Humanos
+Empresa:  Empresa XYZ
+Calle:  Calle Principal 
+Numero Exterior:  456
+Numero Interior:  Oficina 101
+Colonia:  Los Alamos 
+Municipio:  Ciudad del Sur
+Estado:  Estado Pequeño 
+CP:  54321
+Teléfono:  555-777-8888
+Correo Electrónico:  laura.perez@example.com
+Fecha de Nacimiento:  1992-08-12
+Edad:  31

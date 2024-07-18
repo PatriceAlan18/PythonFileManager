@@ -1,0 +1,17 @@
+Oficio
+
+Nombre: Carlos
+Apellidos:  García  Martínez
+Cargo:  Programador
+Empresa:  Tech Solutions
+Calle:  Avenida Tecnológica 
+Numero Exterior:  987
+Numero Interior:  Suite 543
+Colonia:  Los Pájaros 
+Municipio:  Ciudad Este
+Estado:  Estado Grande 
+CP:  44444
+Teléfono:  555-333-7777
+Correo Electrónico:  carlos.garcia@example.com
+Fecha de Nacimiento:  1983-01-05
+Edad:  40

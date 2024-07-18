@@ -1,0 +1,17 @@
+Oficio
+
+Nombre: Daniel
+Apellidos:  Martínez  Sánchez
+Cargo:  Ingeniero de Software
+Empresa:  Software Innovations
+Calle:  Cedar Rd 
+Numero Exterior:  321
+Numero Interior:  Apt 555
+Colonia:  Las Flores 
+Municipio:  Ciudad Este
+Estado:  Estado Medio 
+CP:  98765
+Teléfono:  555-234-5678
+Correo Electrónico:  daniel.martinez@example.com
+Fecha de Nacimiento:  1980-03-10
+Edad:  43

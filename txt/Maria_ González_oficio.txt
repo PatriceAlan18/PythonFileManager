@@ -1,0 +1,17 @@
+Oficio
+
+Nombre: Maria
+Apellidos:  González  López
+Cargo:  Analista de Datos
+Empresa:  XYZ Corporation
+Calle:  Oak Avenue 
+Numero Exterior:  789
+Numero Interior:  Suite 101
+Colonia:  Los Robles 
+Municipio:  Ciudad Sur
+Estado:  Estado Pequeño 
+CP:  54321
+Teléfono:  555-987-6543
+Correo Electrónico:  maria.gonzalez@example.com
+Fecha de Nacimiento:  1990-11-15
+Edad:  32

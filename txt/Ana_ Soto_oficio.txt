@@ -1,0 +1,17 @@
+Oficio
+
+Nombre: Ana
+Apellidos:  Soto  López
+Cargo:  Diseñadora Gráfica
+Empresa:  Creativos Digitales
+Calle:  Río Verde 
+Numero Exterior:  123
+Numero Interior:  Casa 45
+Colonia:  El Bosque 
+Municipio:  Ciudad Norte
+Estado:  Estado Medio 
+CP:  55555
+Teléfono:  555-111-9999
+Correo Electrónico:  ana.soto@example.com
+Fecha de Nacimiento:  1995-09-28
+Edad:  28

@@ -1,0 +1,17 @@
+Oficio
+
+Nombre: Roberto
+Apellidos:  Fernández  Rodríguez
+Cargo:  Analista de Marketing
+Empresa:  Marketing Pro
+Calle:  Avenida Central 
+Numero Exterior:  987
+Numero Interior:  Apt 123
+Colonia:  Las Palmas 
+Municipio:  Ciudad Oeste
+Estado:  Estado Grande 
+CP:  67890
+Teléfono:  555-999-1111
+Correo Electrónico:  roberto.fernandez@example.com
+Fecha de Nacimiento:  1988-04-25
+Edad:  35

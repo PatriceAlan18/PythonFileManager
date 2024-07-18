@@ -1,0 +1,6 @@
+nombre,apellido1,apellido2,cargo,empresa,calle,numeroExt,numeroInt,colonia,municipio,estado,codigoPostal,telefono,correo,FECHA_NACIMIENTO,edad
+Laura, Pérez, García, Jefa de Recursos Humanos, Empresa XYZ, Calle Principal, 456, Oficina 101, Los Alamos, Ciudad del Sur, Estado Pequeño, 54321, 555-777-8888, laura.perez@example.com, 1992-08-12, 31
+Roberto, Fernández, Rodríguez, Analista de Marketing, Marketing Pro, Avenida Central, 987, Apt 123, Las Palmas, Ciudad Oeste, Estado Grande, 67890, 555-999-1111, roberto.fernandez@example.com, 1988-04-25, 35
+Ana, Soto, López, Diseñadora Gráfica, Creativos Digitales, Río Verde, 123, Casa 45, El Bosque, Ciudad Norte, Estado Medio, 55555, 555-111-9999, ana.soto@example.com, 1995-09-28, 28
+Carlos, García, Martínez, Programador, Tech Solutions, Avenida Tecnológica, 987, Suite 543, Los Pájaros, Ciudad Este, Estado Grande, 44444, 555-333-7777, carlos.garcia@example.com, 1983-01-05, 40
+Saul, Rodriguez, Navarro,   Contadora,   Contabilidad Profesional,   Calle Financiera,   765,   Oficina 321,   Las Flores,   Ciudad del Sur,   Estado Peque�o,   22222,   555-222-8888,   marta.rodriguez@example.com,   1990-07-18,   33

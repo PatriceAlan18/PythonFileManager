@@ -1,0 +1,17 @@
+Oficio
+
+Nombre: [NOMBRE]
+Apellidos: [APELLIDO1] [APELLIDO2]
+Cargo: [CARGO]
+Empresa: [EMPRESA]
+Calle: [CALLE] 
+Numero Exterior: [NUMEROEXT]
+Numero Interior: [NUMEROINT]
+Colonia: [COLONIA] 
+Municipio: [MUNICIPIO]
+Estado: [ESTADO] 
+CP: [CODIGOPOSTAL]
+Teléfono: [TELEFONO]
+Correo Electrónico: [CORREO]
+Fecha de Nacimiento: [FECHA_NACIMIENTO]
+Edad: [EDAD]
